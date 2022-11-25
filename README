@@ -1,0 +1,8 @@
+1.I have used modelviewset for the crud operation
+2.I have hosted this task here https://todolist-drf.herokuapp.com/app/
+3.After click this will ask username and password as the part of basic authentication 
+4.you have to add rohitkashyap as username and 1 as password ,this is superuser credentials
+5.After that by default get method will be called and all records will be fetched
+6.you can add data using post request
+7.for update and delete operations you need to <id>/ on link metnioed in point 2 
+8.you can delete and update all filed of the current record but to edit a single field you can pass data in json format then you can change single field with patch request. 
