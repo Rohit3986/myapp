@@ -1,1 +1,1 @@
-web: gunicorn mytodo.wsgi
+web: gunicorn 'mytodo.wsgi'
